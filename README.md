@@ -1,5 +1,7 @@
 # Swiftmailer Punycode Plugin
 
+[![Build Status](https://travis-ci.org/ossinkine/swiftmailer-punycode-plugin.svg?branch=master)](https://travis-ci.org/ossinkine/swiftmailer-punycode-plugin)
+
 Swiftmailer plugin to convert domain in email addresses to punycode.
 
 ## Installation
