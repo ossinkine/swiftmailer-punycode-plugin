@@ -18,6 +18,9 @@
     "require-dev": {
         "phpunit/phpunit": "^6.5"
     },
+    "conflict": {
+        "swiftmailer/swiftmailer": "^6.1"
+    },
     "autoload": {
         "psr-4": {
             "Ossinkine\\Swift\\Plugin\\": "src/"
